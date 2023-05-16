@@ -1,4 +1,4 @@
-###     Hi_there 👋
+   ### Hi, there 👋
 
 ### 💁‍♀️ I'm Rumyana Valdobreva.
 ### 📚 I’m currently learning Programming Fundamentals with Python.
