@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 💁‍♀️ I'm Rumyana Valdobreva.
+### 📚 I’m currently learning Programming Fundamentals with Python.
+### 🤩 I'm interested in programming.
 <!--
 **RumyanaValdobreva/RumyanaValdobreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
