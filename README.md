@@ -1,6 +1,6 @@
    ### Hi, there 👋
 
-### 💁‍♀️ I'm Rumyana Valdobreva.
+### 💁🏻‍♀️ I'm Rumyana Valdobreva.
 ### 📚 I’m currently learning Programming Fundamentals with Python.
 ### 🤩 I'm interested in programming.
 <!--
