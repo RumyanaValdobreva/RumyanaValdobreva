@@ -3,6 +3,8 @@
 ### 💁🏻‍♀️ I'm Rumyana Valdobreva.
 ### 📚 I’m currently learning Programming Fundamentals with Python.
 ### 🤩 I'm interested in programming.
+
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rumyana.iw/)
 <!--
 **RumyanaValdobreva/RumyanaValdobreva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
