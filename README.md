@@ -1,7 +1,7 @@
    ### Hi, there 👋
 
 ### 💁🏻‍♀️ I'm Rumyana Valdobreva.
-### 📚 I’m currently learning JS Front-End.
+### 📚 I’m currently learning Python DB.
 ### 🤩 I'm interested in programming.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rumyana.iw/)
