@@ -1,7 +1,7 @@
    ### Hi, there 👋
 
 ### 💁🏻‍♀️ I'm Rumyana Valdobreva.
-### 📚 I’m currently learning Python ORM.
+### 📚 I’m currently learning Python Web.
 ### 🤩 I'm interested in programming.
 
 ![visitors](https://komarev.com/ghpvc/?username=danikivanova)
